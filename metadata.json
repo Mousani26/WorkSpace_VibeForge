@@ -1,0 +1,6 @@
+{
+  "name": "Human Resource Management System",
+  "description": "A production-quality Human Resource Management System (HRMS) featuring onboarding, attendance tracking, leave workflows, payroll, and server-side AI HR insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
